@@ -1,0 +1,18 @@
+
+
+Parameter values (passed in on template invocation):
+description='My new project'
+root_package='com.myorg'
+team-id='T1L0VDKJP'
+service_class_name='MyService'
+template='Spring Boot Rest Microservice'
+user-id='U1L8JQMTJ'
+group_id='atomist'
+org='atomisthqa'
+version='0.0.1-SNAPSHOT'
+artifact_id='myartifact'
+project_name='jim106'
+visibility='public'
+name='jim106'
+
+Computed parameter values (computed based on parameter values passed in):
